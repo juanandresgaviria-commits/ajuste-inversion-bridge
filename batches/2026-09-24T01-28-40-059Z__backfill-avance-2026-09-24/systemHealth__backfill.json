@@ -1,0 +1,32 @@
+{
+ "generadoEn": "2026-09-24T01:28:40.032Z",
+ "nota": "Generado por daily-update.sh en el Mac (scripts/backfill-queue.mjs progress) y aplicado por el puente de GitHub.",
+ "total": 134,
+ "listo": 14,
+ "pendiente": 120,
+ "fallido": 0,
+ "listoPorTipo": {
+  "listado": 14,
+  "apoyo": 0
+ },
+ "pendientePorTipo": {
+  "listado": 101,
+  "apoyo": 19
+ },
+ "historiaCorta": [],
+ "fallidos": [],
+ "ritmoPorDia": 16,
+ "ritmoBase": "nominal",
+ "fechaEstimadaFin": "2026-10-02",
+ "fechaEstimadaFinRazon": null,
+ "proximaTanda": "2026-09-24T12:30:00.000Z",
+ "ultimaCorrida": {
+  "at": "2026-09-24T01:28:39.885Z",
+  "tomadas": 8,
+  "listas": 0,
+  "fallidas": 0,
+  "reintentar": 8,
+  "limiteTasa": 0,
+  "cortacircuitos": false
+ }
+}
