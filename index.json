@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-28T00:40:41.016Z",
+ "generatedAt": "2026-09-28T13:16:09.652Z",
  "batches": [
   {
    "batch": "2026-09-18T00-00-00-000Z__puente-prueba",
@@ -48,6 +48,11 @@
   },
   {
    "batch": "2026-09-28T00-35-44-153Z__backfill-avance-2026-09-28",
+   "hash": "6a621d64b3a61951",
+   "entryCount": 1
+  },
+  {
+   "batch": "2026-09-28T13-15-34-268Z__backfill-avance-2026-09-28",
    "hash": "6a621d64b3a61951",
    "entryCount": 1
   }
