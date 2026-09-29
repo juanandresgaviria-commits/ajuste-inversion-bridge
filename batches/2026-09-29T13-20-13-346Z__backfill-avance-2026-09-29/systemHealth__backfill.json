@@ -1,0 +1,32 @@
+{
+ "generadoEn": "2026-09-29T13:20:13.320Z",
+ "nota": "Generado por daily-update.sh en el Mac (scripts/backfill-queue.mjs progress) y aplicado por el puente de GitHub.",
+ "total": 134,
+ "listo": 14,
+ "pendiente": 120,
+ "fallido": 0,
+ "listoPorTipo": {
+  "listado": 14,
+  "apoyo": 0
+ },
+ "pendientePorTipo": {
+  "listado": 101,
+  "apoyo": 19
+ },
+ "historiaCorta": [],
+ "fallidos": [],
+ "ritmoPorDia": 0,
+ "ritmoBase": "observado",
+ "fechaEstimadaFin": null,
+ "fechaEstimadaFinRazon": "Al ritmo observado (0 claves resueltas en 12 corrida(s) de los últimos 7 días, todas frenadas por el límite de Yahoo) no hay fecha estimable.",
+ "proximaTanda": "2026-09-30T00:30:00.000Z",
+ "ultimaCorrida": {
+  "at": "2026-09-29T13:20:13.201Z",
+  "tomadas": 8,
+  "listas": 0,
+  "fallidas": 0,
+  "reintentar": 8,
+  "limiteTasa": 0,
+  "cortacircuitos": false
+ }
+}
