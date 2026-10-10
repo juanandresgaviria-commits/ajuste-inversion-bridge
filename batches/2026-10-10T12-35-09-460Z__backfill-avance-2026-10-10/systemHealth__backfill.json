@@ -1,0 +1,53 @@
+{
+ "generadoEn": "2026-10-10T12:35:09.427Z",
+ "nota": "Generado por daily-update.sh en el Mac (scripts/backfill-queue.mjs progress) y aplicado por el puente de GitHub.",
+ "total": 134,
+ "listo": 81,
+ "pendiente": 53,
+ "fallido": 0,
+ "listoPorTipo": {
+  "listado": 63,
+  "apoyo": 18
+ },
+ "pendientePorTipo": {
+  "listado": 52,
+  "apoyo": 1
+ },
+ "historiaCorta": [
+  {
+   "clave": "US:GEHCCO",
+   "desde": "2022-12-15"
+  },
+  {
+   "clave": "LATAM:NUCO",
+   "desde": "2021-12-09"
+  },
+  {
+   "clave": "FUND:IBITCO",
+   "desde": "2024-01-11"
+  },
+  {
+   "clave": "ADR:LTM",
+   "desde": "2024-07-25"
+  }
+ ],
+ "listoPorFuente": {
+  "yahoo": 11,
+  "googlefinance": 70
+ },
+ "fallidos": [],
+ "ritmoPorDia": 0,
+ "ritmoBase": "observado",
+ "fechaEstimadaFin": null,
+ "fechaEstimadaFinRazon": "Al ritmo observado (0 claves resueltas en 15 corrida(s) de los últimos 7 días, todas frenadas por el límite de Yahoo) no hay fecha estimable.",
+ "proximaTanda": "2026-10-11T00:30:00.000Z",
+ "ultimaCorrida": {
+  "at": "2026-10-10T12:35:09.308Z",
+  "tomadas": 8,
+  "listas": 0,
+  "fallidas": 0,
+  "reintentar": 0,
+  "limiteTasa": 8,
+  "cortacircuitos": false
+ }
+}
