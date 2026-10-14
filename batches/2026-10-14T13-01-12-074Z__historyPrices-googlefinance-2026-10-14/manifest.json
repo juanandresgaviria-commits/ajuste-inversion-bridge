@@ -1,0 +1,422 @@
+[
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:AAPLCO",
+  "file": "historyPrices__US:AAPLCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:AMZNCO",
+  "file": "historyPrices__US:AMZNCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:BACCO",
+  "file": "historyPrices__US:BACCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:BRKBCO",
+  "file": "historyPrices__US:BRKBCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:CCO",
+  "file": "historyPrices__US:CCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:FCO",
+  "file": "historyPrices__US:FCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:GECO",
+  "file": "historyPrices__US:GECO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:GEHCCO",
+  "file": "historyPrices__US:GEHCCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:GOOGLCO",
+  "file": "historyPrices__US:GOOGLCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:JNJCO",
+  "file": "historyPrices__US:JNJCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:JPMCO",
+  "file": "historyPrices__US:JPMCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:KOCO",
+  "file": "historyPrices__US:KOCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:METACO",
+  "file": "historyPrices__US:METACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:MSFTCO",
+  "file": "historyPrices__US:MSFTCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:NKECO",
+  "file": "historyPrices__US:NKECO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:NVDACO",
+  "file": "historyPrices__US:NVDACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:PFECO",
+  "file": "historyPrices__US:PFECO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:TSLACO",
+  "file": "historyPrices__US:TSLACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:UBERCO",
+  "file": "historyPrices__US:UBERCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "US:HIVECO",
+  "file": "historyPrices__US:HIVECO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:BAPCO",
+  "file": "historyPrices__LATAM:BAPCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:BVNCO",
+  "file": "historyPrices__LATAM:BVNCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:IFSCO",
+  "file": "historyPrices__LATAM:IFSCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:NUCO",
+  "file": "historyPrices__LATAM:NUCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:PBRCO",
+  "file": "historyPrices__LATAM:PBRCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:SCCOCO",
+  "file": "historyPrices__LATAM:SCCOCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LATAM:SQMBCO",
+  "file": "historyPrices__LATAM:SQMBCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:CBU7CO",
+  "file": "historyPrices__FUND:CBU7CO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:CSPXCO",
+  "file": "historyPrices__FUND:CSPXCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:EIMICO",
+  "file": "historyPrices__FUND:EIMICO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:EMGACO",
+  "file": "historyPrices__FUND:EMGACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:EQACCO",
+  "file": "historyPrices__FUND:EQACCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IJPACO",
+  "file": "historyPrices__FUND:IJPACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:INRACO",
+  "file": "historyPrices__FUND:INRACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:ISACCO",
+  "file": "historyPrices__FUND:ISACCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IUESCO",
+  "file": "historyPrices__FUND:IUESCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IUFSCO",
+  "file": "historyPrices__FUND:IUFSCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IUHCCO",
+  "file": "historyPrices__FUND:IUHCCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IUITCO",
+  "file": "historyPrices__FUND:IUITCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IWVLCO",
+  "file": "historyPrices__FUND:IWVLCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:JPEACO",
+  "file": "historyPrices__FUND:JPEACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:LQDACO",
+  "file": "historyPrices__FUND:LQDACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:RBOTCO",
+  "file": "historyPrices__FUND:RBOTCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:SDHACO",
+  "file": "historyPrices__FUND:SDHACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:SDIACO",
+  "file": "historyPrices__FUND:SDIACO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:SUASCO",
+  "file": "historyPrices__FUND:SUASCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:GDXCO",
+  "file": "historyPrices__FUND:GDXCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:GOAUCO",
+  "file": "historyPrices__FUND:GOAUCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:IBITCO",
+  "file": "historyPrices__FUND:IBITCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:JETSCO",
+  "file": "historyPrices__FUND:JETSCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:SMHCO",
+  "file": "historyPrices__FUND:SMHCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FUND:VOOCO",
+  "file": "historyPrices__FUND:VOOCO.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FX:USDCOP",
+  "file": "historyPrices__FX:USDCOP.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FX:USDCLP",
+  "file": "historyPrices__FX:USDCLP.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FX:USDPEN",
+  "file": "historyPrices__FX:USDPEN.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FX:GBPCOP",
+  "file": "historyPrices__FX:GBPCOP.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "FX:USDBRL",
+  "file": "historyPrices__FX:USDBRL.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "IDX:GSPC",
+  "file": "historyPrices__IDX:GSPC.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "IDX:ILF",
+  "file": "historyPrices__IDX:ILF.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "IDX:URTH",
+  "file": "historyPrices__IDX:URTH.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:CIB",
+  "file": "historyPrices__ADR:CIB.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:AVAL",
+  "file": "historyPrices__ADR:AVAL.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:EC",
+  "file": "historyPrices__ADR:EC.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:BCH",
+  "file": "historyPrices__ADR:BCH.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:BSAC",
+  "file": "historyPrices__ADR:BSAC.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:CCU",
+  "file": "historyPrices__ADR:CCU.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:AKOB",
+  "file": "historyPrices__ADR:AKOB.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:ENIC",
+  "file": "historyPrices__ADR:ENIC.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "ADR:LTM",
+  "file": "historyPrices__ADR:LTM.json"
+ },
+ {
+  "op": "raw-points-unmerged",
+  "collection": "historyPrices",
+  "doc_id": "LOCAL:PETR4",
+  "file": "historyPrices__LOCAL:PETR4.json"
+ }
+]
