@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T01:56:42.732Z",
+ "generatedAt": "2026-10-20T12:58:39.087Z",
  "batches": [
   {
    "batch": "2026-09-18T00-00-00-000Z__puente-prueba",
@@ -288,6 +288,16 @@
   },
   {
    "batch": "2026-10-20T01-29-25-608Z__precios-trii-2026-10-20",
+   "hash": "0a0427a36f8aa688",
+   "entryCount": 1
+  },
+  {
+   "batch": "2026-10-20T12-58-01-170Z__backfill-avance-2026-10-20",
+   "hash": "6a621d64b3a61951",
+   "entryCount": 1
+  },
+  {
+   "batch": "2026-10-20T12-58-07-337Z__precios-trii-2026-10-20",
    "hash": "0a0427a36f8aa688",
    "entryCount": 1
   }
