@@ -1,0 +1,8 @@
+[
+ {
+  "op": "set",
+  "collection": "market",
+  "doc_id": "prices",
+  "file": "market__prices.json"
+ }
+]
